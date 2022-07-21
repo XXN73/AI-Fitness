@@ -1,1 +1,1 @@
-# AIFitness
+# AI-Fitness
